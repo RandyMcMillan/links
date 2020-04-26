@@ -11,8 +11,7 @@ OR
 
 ```bash
 
-mkdir -p ~/.pluto
-git clone https://github.com/RandyMcMillan/links-news.git ~/.pluto/links-news
+mkdir -p ~/.pluto && git clone https://github.com/RandyMcMillan/links-news.git ~/.pluto/links-news
 
 ```
 AND
