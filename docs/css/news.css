@@ -1,12 +1,12 @@
 body {
-  font-family: sans-serif;
+  font-family: -apple-system,BlinkMacSystemFont,"Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial, sans-serif;
   color: #333; }
 
 a {
   text-decoration: none;
-  color: #8b0000; }
+  color: #32859e; }
   a:visited {
-    color: #b22222; }
+    color: #5197ad; }
   a:hover {
     text-decoration: underline; }
 
@@ -34,9 +34,9 @@ hr.filler {
   height: 1px; }
 
 .item {
-  font-size: 18px; }
+  font-size: 16px; }
   .item h1, .item h2, .item h3, .item h4, .item h5, .item h6, .item b {
-    font-size: 18px; }
+    font-size: 16px; }
   .item p, .item h1, .item h2, .item h3, .item h4, .item h5, .item h6 {
     margin: 2px 0px 2px 0px;
     padding: 0; }
